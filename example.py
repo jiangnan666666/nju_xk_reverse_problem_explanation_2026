@@ -1,6 +1,8 @@
 #自行把***补全
 #除了loginPwd为密码外，其余均为学号
 #loginPwd参考getpwd.js
+#下面例子随机选了两节课，按需修改
+#仅供参考，后果自负
 import requests
 import base64
 from recognize import getchar
