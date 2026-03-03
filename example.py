@@ -1,3 +1,6 @@
+#自行把***补全
+#除了loginPwd为密码外，其余均为学号
+#loginPwd参考getpwd.js
 import requests
 import base64
 from recognize import getchar
