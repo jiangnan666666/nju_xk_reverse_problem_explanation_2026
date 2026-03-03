@@ -1,0 +1,2 @@
+# nju_xk_reverse_problem_explanation_2026
+南京大学选课逆向的一些技术性问题尝试性解决
